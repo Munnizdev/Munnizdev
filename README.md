@@ -1,4 +1,4 @@
-![Banner pessoal](assets/Andressamuniz(4).png) 
+![Banner pessoal](ativos/banner.png)
 <h1 align="center"> Oiie, tudo bem?</h1>
 
 <p align="center">
