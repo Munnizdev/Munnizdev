@@ -6,7 +6,7 @@ Desenvolvedora Full Stack | Apaixonada por Códigos, Cibersegurança e Artes �
 
 ---
 
-🎧💻 **Tecnologia no coração, arte na alma.**  Prazer, Andressa! Tenho 28 anos, e desde criança vibro com a tecnologia e a beleza da criação artística,  seja num sistema funcional, num espetáculo  ou numa melodia.
+🎧💻 **Tecnologia no coração, arte na alma...**  Prazer, Andressa! Tenho 28 anos, e desde criança vibro com a tecnologia e a beleza da criação artística,  seja num sistema funcional, num espetáculo  ou numa melodia.
 
 🧠 Autodidata por natureza, encontrei na programação a liberdade de construir mundos com lógica e sensibilidade. Formada em **Análise e Desenvolvimento de Sistemas**, com **pós-graduação em Cibersegurança**, sigo explorando tudo o que envolve back-end, front-end e segurança da informação, com um fascínio por tudo o que envolva **JavaScript, React, Node.js, APIs e autenticação JWT**.
 
