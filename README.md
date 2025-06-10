@@ -2,7 +2,7 @@
 <h1 align="center"> Oiie, tudo bem?</h1>
 
 <p align="center">
-Desenvolvedora Full Stack | Apaixonada por Códigos, Cibersegurança e Artes 🎨☕
+Desenvolvedora Full Stack | Apaixonada por códigos, cibersegurança, artes e café... muito café! 🎨☕
 </p>
 
 ---
