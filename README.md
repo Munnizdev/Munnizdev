@@ -26,7 +26,7 @@ Desenvolvedora Full Stack | Apaixonada por Códigos, Cibersegurança e Artes �
 
 ### 📫 Onde me encontrar:
 [LinkedIn](https://www.linkedin.com/in/andressa-muniz-2a7714146/)    
-[Email:}(andressa.munniz@outlook.com) 
+📩 andressa.munniz@outlook.com 
 
 ---
 
