@@ -1,4 +1,4 @@
-![Banner pessoal](ativos/banner.png)
+![Banner](assets/banner.png)
 <h1 align="center"> Oiie, tudo bem?</h1>
 
 <p align="center">
