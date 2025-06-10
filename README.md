@@ -1,3 +1,4 @@
+![Banner pessoal](assets/Andressa Muniz (4).png) 
 <h1 align="center"> Oiie, tudo bem?</h1>
 
 <p align="center">
