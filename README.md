@@ -1,8 +1,12 @@
 ![Banner](assets/banner.png)
 
+<div align="center">
+
 <h1>Oiie, tudo bem?</h1>
 
 <p>Desenvolvedora Full Stack | Apaixonada por códigos, cibersegurança, artes e café... muito café! 🎨☕</p>
+
+</div>
 
 ---
 
