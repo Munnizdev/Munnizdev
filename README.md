@@ -8,7 +8,7 @@
 
 <div style="text-align: justify;">
 
-🎧💻 <strong>Tecnologia no coração, arte na alma...</strong>  
+💻 <strong>Tecnologia no coração, arte na alma...</strong>  
 Prazer, Andressa! Tenho 28 anos, e desde criança vibro com a tecnologia e a beleza da criação artística, seja num sistema funcional, num espetáculo ou numa melodia.
 
 🧠 Autodidata por natureza, encontrei na programação a liberdade de construir mundos com lógica e sensibilidade. Formada em <strong>Análise e Desenvolvimento de Sistemas</strong>, com <strong>pós-graduação em Cibersegurança</strong>, sigo explorando tudo o que envolve back-end, front-end e segurança da informação, com um fascínio por tudo o que envolva <strong>JavaScript, React, Node.js, APIs e autenticação JWT</strong>.
@@ -21,7 +21,7 @@ Prazer, Andressa! Tenho 28 anos, e desde criança vibro com a tecnologia e a bel
 
 ---
 
-### 🛠️ Tecnologias:
+### Tecnologias:
 **Front-end:** HTML | CSS | JavaScript | React  
 **Back-end:** Node.js | Express  
 **Banco de Dados:** MongoDB | MySQL  
@@ -35,6 +35,6 @@ Prazer, Andressa! Tenho 28 anos, e desde criança vibro com a tecnologia e a bel
 
 ---
 
-<p align="justify">
-✨ <em>“A tecnologia transforma o mundo. A arte transforma as pessoas. Quando as duas se encontram, nascem ideias que inspiram e constroem o futuro.”</em> ✨
+<p>
+<em>“A tecnologia transforma o mundo. A arte transforma as pessoas. Quando as duas se encontram, nascem ideias que inspiram e constroem o futuro.”</em>
 </p>
