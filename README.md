@@ -1,5 +1,3 @@
-![Banner](assets/banner.png)
-
 <div align="center">
 
 <h1>Oiie, tudo bem?</h1>
