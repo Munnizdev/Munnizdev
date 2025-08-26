@@ -40,8 +40,6 @@ Acredito que a tecnologia deve ser construída com clareza, segurança e criativ
 ---
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Munnizdev&theme=radical&row=1&column=6)
-
 </div>
 
 ---
