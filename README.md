@@ -39,9 +39,6 @@ Acredito que a tecnologia deve ser construída com clareza, segurança e criativ
 
 ---
 
-## 🏆 Conquistas  
-
-<div align="center">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Munnizdev&theme=radical&row=1&column=6)
 
