@@ -7,18 +7,15 @@
 
 ---
 
-## 💫 Sobre mim  
+Sobre mim
 
-💻 <b>Tecnologia no coração, arte na alma...</b>  
-Prazer, eu sou a <b>Andressa</b>! Tenho 28 anos, formada em <b>Análise e Desenvolvimento de Sistemas</b> com <b>Pós em Cibersegurança</b>.  
-Sou movida a ☕ café, apaixonada por <b>JavaScript, React, Node.js, APIs</b> e segurança da informação.  
+Sou Andressa, formada em Análise e Desenvolvimento de Sistemas, pós-graduada em Cibersegurança e atualmente cursando o 3º semestre de Engenharia de Software.
 
-Adoro unir técnica + criatividade + segurança.  
-Também sou <b>multi-instrumentista</b>, fã de música, filosofia e dança. 🎶  
+Acredito que a tecnologia deve ser construída com clareza, segurança e criatividade, unindo técnica e propósito. Busco desenvolver soluções eficientes e confiáveis, aprendendo e evoluindo a cada desafio. 
 
 ---
 
-## 🚀 Tecnologias  
+ Tecnologias  
 
 <div align="center">
 
