@@ -1,33 +1,30 @@
-<!-- Banner ou ilustração -->
 <div align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300"/>
+
+# 👋 Oiie, tudo bem?  
+### Desenvolvedora Full Stack | Códigos, cibersegurança, artes e café... muito café! 🎨☕  
+
 </div>
-
-<h1 align="center">Oiie, tudo bem? 👩‍💻☕</h1>
-
-<p align="center">
-  <b>Desenvolvedora Full Stack</b> | Códigos, cibersegurança, artes e café... muito café! 🎨☕  
-</p>
 
 ---
 
-## ✨ Sobre mim  
+## 💫 Sobre mim  
+
 💻 <b>Tecnologia no coração, arte na alma...</b>  
-Prazer, eu sou a <b>Andressa</b>, tenho 28 anos e desde pequena vibro com a tecnologia e com a beleza da criação artística – seja num sistema funcional, num espetáculo ou numa melodia.  
+Prazer, eu sou a <b>Andressa</b>! Tenho 28 anos e desde criança vibro com a tecnologia e com a beleza da criação artística – seja num sistema funcional, num espetáculo ou numa melodia.  
 
 🧠 Autodidata, encontrei na programação a liberdade de criar mundos com lógica e sensibilidade.  
 🎓 Formada em <b>Análise e Desenvolvimento de Sistemas</b> e pós-graduada em <b>Cibersegurança</b>.  
 💡 Apaixonada por <b>JavaScript, React, Node.js, APIs e autenticação JWT</b>.  
 
-☕ Sou movida a café e desafios técnicos. Amo a estrutura do código como quem aprecia a harmonia de uma composição musical.  
+☕ Sou movida a café e desafios técnicos.  
 🎶 Também sou <b>multi-instrumentista</b> e apaixonada por filosofia, música e dança.  
 
-🌍 Hoje, busco atuar no desenvolvimento onde eu possa unir técnica, criatividade, segurança e empatia.  
-🤝 Gosto de colaborar em equipa, partilhar conhecimento e aprender todos os dias.  
+🌍 Hoje, busco unir técnica e criatividade, segurança e empatia.  
+🤝 Adoro colaborar em equipa, partilhar conhecimento e aprender todos os dias.  
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias e Ferramentas  
 
 **Front-end**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -55,16 +52,16 @@ Prazer, eu sou a <b>Andressa</b>, tenho 28 anos e desde pequena vibro com a tecn
 ## 📊 Estatísticas no GitHub  
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teu-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teu-username&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=teu-username&theme=radical&hide_border=false)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munnizdev&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munnizdev&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Munnizdev&theme=radical&hide_border=false)  
 
 </div>
 
 ---
 
-## 📫 Onde me encontrar  
+## 🌐 Onde me encontrar  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-muniz-2a7714146/)  
 📩 **andressa.munniz@outlook.com**  
