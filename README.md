@@ -9,7 +9,7 @@
 
 Sobre mim
 
-Sou Andressa, formada em Análise e Desenvolvimento de Sistemas, pós-graduada em Cibersegurança e atualmente cursando o 3º semestre de Engenharia de Software.
+Me chamo Andressa, formada em Análise e Desenvolvimento de Sistemas, pós-graduada em Cibersegurança e atualmente cursando o 3º semestre de Engenharia de Software.
 
 Acredito que a tecnologia deve ser construída com clareza, segurança e criatividade, unindo técnica e propósito. Busco desenvolver soluções eficientes e confiáveis, aprendendo e evoluindo a cada desafio. 
 
