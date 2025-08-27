@@ -1,13 +1,15 @@
 <div align="center">
 
+<img src="https://media1.tenor.com/m/kjXMU4dl8lAAAAAC/hello-world.gif" alt="Hello World" width="300" style="border-radius: 12px;"/>
+
 # 👋 Oiie, tudo bem?  
-### Desenvolvedora Full Stack | Códigos, cibersegurança, artes e café... muito café! 🎨☕  
+### Desenvolvedora Full Stack, Códigos, cibersegurança, artes e café... muito café! 🎨☕  
 
 </div>
 
 ---
 
-Sobre mim
+## Sobre mim  
 
 Me chamo Andressa, formada em Análise e Desenvolvimento de Sistemas, pós-graduada em Cibersegurança e atualmente cursando o 3º semestre de Engenharia de Software.
 
@@ -15,36 +17,60 @@ Acredito que a tecnologia deve ser construída com clareza, segurança e criativ
 
 ---
 
- Tecnologias  
+## Tecnologias  
 
 <div align="center">
 
-| Front-end | Back-end | Banco de Dados | Outros |
-|-----------|----------|----------------|--------|
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens) ![WebSocket](https://img.shields.io/badge/WebSocket-2E7D32?style=for-the-badge&logo=socket.io&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+<p>
+  <!-- Front-end -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="filter: drop-shadow(0 0 10px #ff4500);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="filter: drop-shadow(0 0 10px #00aaff);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="filter: drop-shadow(0 0 10px #f7df1e);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="filter: drop-shadow(0 0 10px #61dafb);" />
+  
+  <!-- Back-end -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" style="filter: drop-shadow(0 0 10px #3c873a);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" style="filter: drop-shadow(0 0 10px #808080);" />
+  
+  <!-- Banco de Dados -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" style="filter: drop-shadow(0 0 10px #4db33d);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="filter: drop-shadow(0 0 10px #00618a);" />
+  
+  <!-- Outros -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="filter: drop-shadow(0 0 10px #e44c30);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" style="filter: drop-shadow(0 0 10px #f24e1e);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" style="filter: drop-shadow(0 0 10px #38b2ac);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40" style="filter: drop-shadow(0 0 10px #2e7d32);" />
+</p>
 
 </div>
 
 ---
 
-## 📊 Estatísticas  
+## Estatísticas  
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munnizdev&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munnizdev&layout=compact&theme=radical&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Munnizdev&theme=radical&hide_border=true)  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Munnizdev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munnizdev&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Munnizdev&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
----
-
-
-</div>
 
 ---
 
-## 🌐 Onde me encontrar  
+## Onde me encontrar  
 
 <div align="center">
 
