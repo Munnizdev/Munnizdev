@@ -3,7 +3,7 @@
 <img src="https://media1.tenor.com/m/kjXMU4dl8lAAAAAC/hello-world.gif" alt="Hello World" width="300" style="border-radius: 12px;"/>
 
 # 👋 Oiie, tudo bem?  
-### Desenvolvedora Full Stack | Códigos | cibersegurança & café... muito café! ☕  
+### Desenvolvedora Full Stack | Cibersegurança & café... muito café! ☕  
 
 </div>
 
