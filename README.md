@@ -1,15 +1,36 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/kjXMU4dl8lAAAAAC/hello-world.gif" alt="Hello World" width="300" style="border-radius: 12px;"/>
+<img src="https://media1.tenor.com/m/YZ8b9q8j8bAAAAAC/coding-programming.gif" alt="Coding" width="500" style="border-radius: 12px;"/>
 
 # 👋 Oiie, tudo bem?  
-### Desenvolvedora Full Stack | Cibersegurança & café... muito café! ☕  
+### Desenvolvedora Full Stack | Cibersegurança | Engenharia de Software 
+
+</div>
+
+---
+  
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Munnizdev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munnizdev&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Munnizdev&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## Sobre mim  
+## 👩‍💻 Sobre mim  
 
 Me chamo Andressa, formada em Análise e Desenvolvimento de Sistemas, pós-graduada em Cibersegurança e atualmente cursando o 3º semestre de Engenharia de Software.
 
@@ -17,7 +38,7 @@ Acredito que a tecnologia deve ser construída com clareza, segurança e criativ
 
 ---
 
-## Tecnologias  
+## 🚀 Tecnologias  
 
 <div align="center">
 
@@ -47,30 +68,7 @@ Acredito que a tecnologia deve ser construída com clareza, segurança e criativ
 
 ---
 
-## Estatísticas  
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Munnizdev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munnizdev&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Munnizdev&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
----
-
-## Onde me encontrar  
+## 🌐 Onde me encontrar  
 
 <div align="center">
 
