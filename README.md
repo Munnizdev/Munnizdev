@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/YZ8b9q8j8bAAAAAC/coding-programming.gif" alt="Coding" width="500" style="border-radius: 12px;"/>
-
-# 👋 Oiie, tudo bem?  
-### Desenvolvedora Full Stack | Cibersegurança | Engenharia de Software 
+<img src="https://raw.githubusercontent.com/Munnizdev/Munnizdev/main/assets/Andressa%20Muniz%20(1).png" 
+     alt="Andressa Muniz" 
+     width="1000" 
+     style="border-radius:50%; border:3px solid #61dafb;"/>
+# Olá, sejam bem-vindos! 👋  
 
 </div>
 
 ---
-  
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 👩‍💻 Sobre mim  
+Sobre mim  
 
 Me chamo Andressa, formada em Análise e Desenvolvimento de Sistemas, pós-graduada em Cibersegurança e atualmente cursando o 3º semestre de Engenharia de Software.
 
@@ -38,7 +38,7 @@ Acredito que a tecnologia deve ser construída com clareza, segurança e criativ
 
 ---
 
-## 🚀 Tecnologias  
+Tecnologias  
 
 <div align="center">
 
@@ -68,7 +68,7 @@ Acredito que a tecnologia deve ser construída com clareza, segurança e criativ
 
 ---
 
-## 🌐 Onde me encontrar  
+Onde me encontrar  
 
 <div align="center">
 
