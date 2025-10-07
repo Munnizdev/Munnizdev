@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Munnizdev/Munnizdev/main/assets/Andressa%20Muniz%20(1).png" 
+<img src="https://github.com/Munnizdev/Munnizdev/blob/main/assets/Andressa%20Muniz%20(2).png" 
      alt="Andressa Muniz" 
      width="1000" 
      style="border-radius:50%; border:3px solid #61dafb;"/>
@@ -32,9 +32,25 @@
 
 Sobre mim  
 
-Me chamo Andressa, formada em Análise e Desenvolvimento de Sistemas, pós-graduada em Cibersegurança e atualmente cursando o 3º semestre de Engenharia de Software.
+Desenvolvedora Full Stack com pós-graduação em Cibersegurança.
 
-Acredito que a tecnologia deve ser construída com clareza, segurança e criatividade, unindo técnica e propósito. Busco desenvolver soluções eficientes e confiáveis, aprendendo e evoluindo a cada desafio. 
+💻 Programação
+
+Linguagens: JavaScript, TypeScript
+
+Frameworks: Node.js, NestJS, React
+
+Banco de Dados: MySQL, SQL, MongoDB
+
+Desenvolvimento Front-end e Back-end, APIs, CRUD
+
+🔒 Cibersegurança
+
+Controle de acesso e criptografia
+
+Proteção de dados e boas práticas de segurança
+
+Conhecimento em LGPD e mitigação de vulnerabilidades 
 
 ---
 
